@@ -1,0 +1,93 @@
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+}
+header {
+    text-align: center;
+}
+.profilepic{
+    width:200px;
+}
+
+h1 {
+    font-size: 28px;
+    color: #333;
+}
+
+h2 {
+    font-size: 22px;
+    color: #333;
+}
+
+/* Links */
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+/* Bio and general paragraph styling */
+p {
+    font-size: 16px;
+    color: #555;
+    margin: 10px 0;
+}
+
+/* Styling for Q&A section */
+.qanda {
+    padding: 10px;
+    border-left: 4px solid #3498db;
+    margin: 10px;
+}
+
+.qanda .question {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+
+.qanda .answer {
+    font-size: 16px;
+    color: #666;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 30px;
+}
+
+footer hr {
+    border: 0;
+    height: 1px;
+    background: #ccc;
+    margin: 20px 0;
+}
+
+/* Subtitle styling */
+#subtitle {
+    font-size: 18px;
+    color: #666;
+    font-style: italic;
+    margin-bottom: 15px;
+}
+#yamleaves{
+    display: flex;
+}
+.yams{
+    height:100%;
+}
