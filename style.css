@@ -33,13 +33,6 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Images */
-img {
-    max-width: 100%;
-    height: auto;
-}
-
-
 /* Bio and general paragraph styling */
 p {
     font-size: 16px;
@@ -85,7 +78,9 @@ footer hr {
     font-style: italic;
     margin-bottom: 15px;
 }
+/*yam leaves*/
 #yamleaves{
+    width:80%;
     display: flex;
 }
 .yams{
